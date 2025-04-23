@@ -1,4 +1,4 @@
-![logo](https://github.com/Abhi-Ptdr/Abhi-Ptdr/blob/main/Github%20Banner.jpeg)
+![logo](https://github.com/Abhi-Ptdr/Abhi-Ptdr/blob/main/GitHub%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Abhishek Patidar</h1>
 <h3 align="center">Hi there! I'm a passionate developer with a love for building web applications using React.js, Node.js. I enjoy solving real-world problems, exploring new tech, and contributing to meaningful projects. </h3>
 
